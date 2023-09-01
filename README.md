@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean-Luc</h1>
-<h3 align="center">Engineer and developer from Paris</h3>
+<h3 align="center">Engineer and WEB Developer from Paris</h3>
 <h3 align="center">I'm looking for opportunities in Front-End or FullStack development WEB</h3>
 
 - 🔭 I’m currently working on [eatAsYouWant - Next.JS/ Tailwind / Prisma / PostgreSQL](https://github.com/jltp2c/eatAsyouWant)
