@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jean-Luc</h1>
 <h3 align="center">A passionate developer from Paris</h3>
 
-- 🔭 I’m currently working on [eatAsYouWant](https://github.com/jltp2c/eatAsyouWant)
+- 🔭 I’m currently working on [eatAsYouWant - Next.JS/ Tailwind / Prisma / PostgreSQL](https://github.com/jltp2c/eatAsyouWant)
 
-- 🌱 I’m currently learning **Next.JS, PostGresql**
+- 🌱 I’m currently learning **Next.JS, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://jeanluctan-portfolio.netlify.app/](https://jeanluctan-portfolio.netlify.app/)
 
