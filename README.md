@@ -2,7 +2,7 @@
 <h3 align="center">Engineer && WEB Developer from Paris</h3>
 <h3 align="center">I'm looking for opportunities in Front-End or FullStack WEB development</h3>
 
-- 🔭 I’m currently working on [eatAsYouWant - Next.JS/ Tailwind / Prisma / PostgreSQL](https://github.com/jltp2c/eatAsyouWant)
+- 🔭 I’m currently working on [BikeTrackr - Next.JS/ Tailwind / Prisma / PostgreSQL](https://github.com/jltp2c/BikeTrackr)
 
 - 🌱 I’m currently learning **Next.JS, PostgreSQL**
 
